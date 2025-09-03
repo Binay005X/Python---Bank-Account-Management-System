@@ -1,5 +1,3 @@
-# Python---Bank-Account-Management-System
-
 # 🏦 Python Bank Account Management System
 # 📌 Project Overview
 
