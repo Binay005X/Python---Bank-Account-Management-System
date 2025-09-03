@@ -7,23 +7,23 @@ The system is designed with Python fundamentals like variables, functions, data 
 
 # 🎯 Objectives
 
-Create and manage bank accounts with auto-generated account numbers
+- Create and manage bank accounts with auto-generated account numbers
 
-Perform secure deposits, withdrawals, and fund transfers
+- Perform secure deposits, withdrawals, and fund transfers
 
-Maintain transaction history with timestamps
+- Maintain transaction history with timestamps
 
-Store and retrieve account details using file handling (pickle)
+- Store and retrieve account details using file handling (pickle)
 
-Provide an interactive menu-driven interface for users
+- Provide an interactive menu-driven interface for users
 
-Implement input validation and error handling for reliable operations
+- Implement input validation and error handling for reliable operations
 
 # 🛠️ Features
 
 ## 1️⃣ Account Management
 
-- Create new accounts with:
+**Create new accounts with**:
 
 - Account holder’s name
 
@@ -61,7 +61,7 @@ Implement input validation and error handling for reliable operations
 
 - Total withdrawals
 
-Average transaction amount
+- Average transaction amount
 
 ## 5️⃣ User Interaction
 
